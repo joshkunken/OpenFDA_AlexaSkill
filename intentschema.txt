@@ -1,0 +1,9 @@
+{
+  "intents": [ {
+    "intent": "WhatAreTheSideEffects",
+    "slots": [ {
+       "name": "Include",
+       "type": "LITERAL"
+    } ]
+  } ]
+}
